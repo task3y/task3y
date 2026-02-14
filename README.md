@@ -1,104 +1,114 @@
-<h2 align="left">Hi 👋! My name is  Aman Kumar. A Passionate fullstack developer.</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/stvrsintheskyy?igsh=am9uMmU2ZHVyMGF4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="aphalswal1810@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ppZnNranA0NGo5dnZpY3BoZG9mbm42NDd2cWlmZHBjYTRmd3VxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hECJDGJs4hQjjWLqRV/giphy.gif"  />
-
-###
-
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFuMXltaGljZXc0Mmg2YnZ6cTljYW82OGQzc2RsZjI5eG04ZzE2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif"  />
-
-###
+<!-- Banner  -->
+<a href="https://github.com/task3y">
+  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
+</a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=task3y&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=task3y&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=task3y&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/task3y/task3y/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ryetsecf6872tjdt6jlsu2qwx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ryetsecf6872tjdt6jlsu2qwx&count=5" alt="Spotify recently played"  />
+  <a href="https://api.github-star-counter.workers.dev/user/task3y">
+    <img width="120px" 
+        alt="Stars" 
+        title="Stars Profile" 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/task3y" /> 
   </a>
+
+  <a href="https://api.github-star-counter.workers.dev/user/task3y">
+    <img width="111px" 
+        alt="forks" 
+        title="Forks Repository" 
+        src="https://custom-icon-badges.demolab.com/github/forks/task3y/task3y?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  </a>
+
+  <a href="https://github.com/task3y?tab=followers">
+    <img width="150px" 
+        alt="Followers" 
+        title="Github Followers" 
+        src="https://custom-icon-badges.herokuapp.com/github/followers/task3y?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  </a>
+
 </div>
 
-###
+</br>
+
+<!-- Who am i? -->
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<div align="center">
+
+**Who Am I?**
+</div>
+
+<div align="justify">
+
+I am a passionate **Software Developer** focused on building complete and scalable systems.  
+Currently working on **MERN Stack projects** and exploring **DevOps practices** to deploy production-ready applications.
+
+I enjoy combining **logic and creativity**, building modern interfaces, and developing backend systems that solve real-world problems.
+
+</div>
+
+</br>
+</br>
+
+<!-- badges -->
+<div align="center">
+  <strong>You can Click here</strong>
+  </br>
+
+  <!-- Linkedin -->
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img width="100px" 
+          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
+          alt="Linkedin"
+          title="My Linkedin"/>
+  </a>
+
+  <!-- GMail  -->
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img width="97px" 
+          src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
+          alt="E-mail"
+          title="My E-mail"/>
+  </a>
+
+</div>
+</br>
+
+<img src="./assets/icons/knife.png" width=106px align="right">
+
+> [!Caution]
+>
+> Code is never finished, it only gets **better**.
+>
+> What you see here is built with **practice**, **curiosity**, and **persistence**.
+
+</br>
+
+<!-- Contributions -->
+<div align="center">
+<img src="./assets/images/Contributions.svg" width="50%">
+</br>
+</br>
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=task3y&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/task3y)
+
+<table align="center">
+  <tr>
+    <td valign="top" width="45%">
+      <img src="./assets/images/Stack.svg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb" /><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vercel" /><br>
+    </td>
+
+    <td valign="top" width="55%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=task3y&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=task3y&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+
+    </td>
+  </tr>
+</table>
+
