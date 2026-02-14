@@ -40,9 +40,9 @@
 <div align="justify">
 
 I am a passionate **Software Developer** focused on building complete and scalable systems.  
-Currently working on **MERN Stack projects** and exploring **DevOps practices** to deploy production-ready applications.
+Currently working on `MERN Stack projects` and exploring `DevOps practices` to deploy production-ready applications.
 
-I enjoy combining **logic and creativity**, building modern interfaces, and developing backend systems that solve real-world problems.
+I enjoy combining `logic and creativity`, building modern interfaces, and developing backend systems that solve real-world problems.
 
 </div>
 
@@ -73,12 +73,10 @@ I enjoy combining **logic and creativity**, building modern interfaces, and deve
 </div>
 </br>
 
-<img src="./assets/icons/knife.png" width=106px align="right">
-
 > [!Caution]
->
+> 
 > Code is never finished, it only gets **better**.
->
+> 
 > What you see here is built with **practice**, **curiosity**, and **persistence**.
 
 </br>
@@ -99,16 +97,13 @@ I enjoy combining **logic and creativity**, building modern interfaces, and deve
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb" /><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vercel" /><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" /><br>
     </td>
-
-    <td valign="top" width="55%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=task3y&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=task3y&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
 
-    </td>
   </tr>
 </table>
 
