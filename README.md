@@ -31,7 +31,7 @@
 </br>
 
 <!-- Who am i? -->
-<img src="./assets/images/redcaticon.jpg" width=390 align="left">
+<img src="./assets/images/redcaticon.jpg" width=220 height="220" align="left">
 <div align="center">
 
 **Who Am I?**
@@ -73,7 +73,9 @@ I enjoy combining `logic and creativity`, building modern interfaces, and develo
 </div>
 
 </br>
-<div>
+
+
+  
 <img src="./assets/images/codered.jpg" width=280 height="200" align="right">
 
 > [!Caution]
@@ -81,9 +83,14 @@ I enjoy combining `logic and creativity`, building modern interfaces, and develo
 > Code is never finished, it only gets **better**.
 > 
 > What you see here is built with **practice**, **curiosity**, and **persistence**.
-
+>
+>
+>
+>
+> One Day you will see `results`
+> 
 </br>
-</div>
+
 
 
 <!-- Contributions -->
@@ -97,15 +104,17 @@ I enjoy combining `logic and creativity`, building modern interfaces, and develo
 
 <table align="center">
   <tr>
-    <td valign="top" width="45%">
+   <td valign="top" width="45%">
       <img src="./assets/images/Stack.svg">
       </br>
       </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb" /><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
+      <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
+      <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
     </td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=task3y&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true" />
+    <td valign="top" width="55%">
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=task3y&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
 
