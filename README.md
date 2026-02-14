@@ -31,7 +31,7 @@
 </br>
 
 <!-- Who am i? -->
-<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<img src="./assets/images/redcaticon.jpg" width=390 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -71,7 +71,10 @@ I enjoy combining `logic and creativity`, building modern interfaces, and develo
   </a>
 
 </div>
+
 </br>
+<div>
+<img src="./assets/images/codered.jpg" width=280 height="200" align="right">
 
 > [!Caution]
 > 
@@ -80,6 +83,8 @@ I enjoy combining `logic and creativity`, building modern interfaces, and develo
 > What you see here is built with **practice**, **curiosity**, and **persistence**.
 
 </br>
+</div>
+
 
 <!-- Contributions -->
 <div align="center">
